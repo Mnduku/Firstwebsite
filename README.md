@@ -1,2 +1,4 @@
-# firstwebsite
-My first website teaching myself html through the Odin Project
+Practice with the basics of css/html/java
+Programs:
+rock paper scissors
+skeleton webpages
